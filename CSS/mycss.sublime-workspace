@@ -1,0 +1,685 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font name6/HTML/INTEX.html",
+			"settings":
+			{
+				"buffer_size": 3479,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font name6/CSS/MyCss.css",
+			"settings":
+			{
+				"buffer_size": 7153,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"file": "/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font name6/js/JQUERY.js",
+			"file_size": 1839,
+			"file_write_time": 132627184092484828,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font name5/js/jquery.js",
+			"settings":
+			{
+				"buffer_size": 1806,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"file": "/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/font nam3/JS/jquery.js",
+			"file_size": 1761,
+			"file_write_time": 132621182977818325,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/font nam3/HTML/index.html",
+			"settings":
+			{
+				"buffer_size": 11203,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font name5/css/mycss.css",
+			"settings":
+			{
+				"buffer_size": 10245,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font name5/js/myjs.js",
+			"settings":
+			{
+				"buffer_size": 1651,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font name5/html/intex.html",
+			"settings":
+			{
+				"buffer_size": 9711,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Snippet: Object Value JS"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 64.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font name5/js/myjs.js",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/font nam3/HTML/index.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font Int Name1/JS/myjs.js",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font Int Name4/HTML/index.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font name6/js/JQUERY.js",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font  name6 Responsive/css/my.css",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font  name6 Responsive/html/ntex.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font  name6 Responsive/is/jquery.js",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/تطبيقات على  JQUERY/التطبيق رقم 2 jQuery/js/JQUERY.js",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font name6/HTML/INTEX.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font name6/CSS/MyCss.css",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/font nam3/JS/jquery.js",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/font nam3/CSS/mnycss.css",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font name5/css/mycss.css",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font name6/JS/my.js",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font name6/CSS/my.js",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font name6/JS/MyJs.Js",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/font nam3/CSS/mycss.lnk",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font  name6 Responsive/is/my.js",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font name5/html/intex.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font  name6 Responsive/is/myjs",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font  name6 Responsive/css/myjs",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font  name6 Responsive/is/ms.js.txt",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font  name6 Responsive/is/my",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font  name6 Responsive/is/myjs.css",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font  name6 Responsive/ntex.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font  name6 Responsive/myjs.css",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font  name6 Responsive/my.css",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/تطبيقات على  JQUERY/التطبيق رقم 2 jQuery/css/Mycss.css",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/font nam3/CSS/mycss.css",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/font nam3/CSS/mycss_New1.css",
+		"/E/WEB/Font Int/تعليم  جي كويري/mycss.css",
+		"/E/WEB/Font Int/المشروع/css/mycss.css",
+		"/E/WEB/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/CSS/mycss.css",
+		"/E/WEB/Font Int/تطبيق على HTML , CSS, JS, JQUERY/CSS/mycss.css",
+		"/E/WEB/Font Int/التطبيق على GavaScrebt - Gquery/CSS/mycss.css",
+		"/E/مشروع  النهائي/المشروع/css/mycss.css",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/font nam3/CSS/mycss.sublime-workspace",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/font nam/CSS/mycss.css",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/font nam2/CSS/mycss.css",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/mycss.css",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/تطبيق على HTML , CSS, JS, JQUERY/CSS/mycss.css",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/$RKPTXE2/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/CSS/mycss.css",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/font nam3/CSS/mycss - Shortcut.lnk",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/تعليم  جي كويري/mycss.css",
+		"/C/Users/Mazen~TQ/AppData/Roaming/Microsoft/Windows/Recent/mycss_New1.lnk",
+		"/C/Users/Mazen~TQ/AppData/Roaming/Microsoft/Windows/Recent/mycss.lnk",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/font nam3/CSS/jqory.js",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/المشروع/css/Pages.css",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/font nam2/CSS/mmyy.css",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/font nam3/CSS/mycss.sublime-project",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/تطبيق على HTML , CSS, JS, JQUERY/HTML/index.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/تعليم  جي كويري/js/myjquery.js",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/font nam2/HTML/Contact.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/تعليم  جي كويري/myjquery.js",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/font nam2/JS/jquery.js",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/font nam3/JS/jqory.js",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/font nam/HTML/index.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/font nam2/HTML/index.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/font nam3/index.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/font nam2/HTML/Register.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/font nam2/HTML/Log In.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/font nam2/HTML/Blog.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/font nam2/HTML/Ads.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/font nam2/HTML/about.html",
+		"/E/مشروع  النهائي/المشروع/project1.html",
+		"/E/مشروع  النهائي/المشروع/Exams.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/font nam2/HTML/Log In",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/font nam2/HTML/Bkog.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/classyads/css/style.css",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/classyads/index.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/classyads/css/rangeslider.css",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/classyads/scss/style.scss",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/font nam2/index.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/شرح html  scc في amit/web sections projects/amit-group-34-template/assets/css/style.css",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/web sections projects/amit-group-34-template/index.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/web sections projects/amit-group-34-template/assets/css/style.css",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/HTML/index.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/CSS/mycss.css",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/CSS/bootstrap-rtl.css",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/JS/popper.min.js",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/المشروع/project1.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/CSS/bootstrap.css",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/web projects/sp11.5.x86x64/Crack/How to Crack.txt",
+		"/C/Users/Mazen~TQ/Desktop/Amit/cission/AMIT34-master/task.txt",
+		"/H/photohopcc15/AdobePhotoshop2015-32bit-mul/packages/IPC/IPC.pima",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/web sections projects/SA/bootstrap-4.0.0/.github/CONTRIBUTING.md",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/web projects/file bootstrap1/js/npm.js",
+		"/C/Users/Mazen~TQ/Desktop/Amit/cission/bootstrap-3.3.7-dist_2/bootstrap-3.3.7-dist/js/npm.js",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/CSS/CSSS.html",
+		"/C/Users/Mazen~TQ/Desktop/Amit/cission/zz/amit-group-34-js/script.js",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/المشروع 2/fa-regular-400.svg",
+		"/C/Users/Mazen~TQ/Desktop/Amit/ClassyAds-master/ClassyAds-master/routes/api.php",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/المشروع/css/bootstrap-rtl.css",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على GavaScrebt - Gquery/HTML/index.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على GavaScrebt - Gquery/JS/myjs.js",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/تطبيق على HTML , CSS, JS, JQUERY/JS/myjs.js",
+		"/C/Users/Mazen~TQ/Desktop/مشروع  النهائي/المشروع/Create an account.html",
+		"/C/Users/Mazen~TQ/Desktop/مشروع  النهائي/المشروع/Get in touch with management.html",
+		"/C/Users/Mazen~TQ/Desktop/مشروع  النهائي/المشروع/project1.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/المشروع/js/myScript.js",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على GavaScrebt - Gquery/JS/popper.min.js",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/المشروع/js/popper.min.js",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/المشروع/js/bootstrap.bundle.min.js",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/المشروع/js/jquery-3.4.1.min.js",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/المشروع/The third primary grade.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/المشروع/The second primary grade.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/المشروع/Start your educational journey now.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/المشروع/School learning1.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/المشروع/Proposals.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/المشروع/Preparatory stage.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/المشروع/Login.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/المشروع/Learn more about teachers.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/المشروع/Learn more about preliminary hopes.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/المشروع/Learn more about managers.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/المشروع/Job.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/المشروع/High school.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/المشروع/Get in touch with management.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/المشروع/Exams Table.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/المشروع/Exams.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/المشروع/First grade.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/المشروع/Administration news.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/المشروع/Electronic services.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/المشروع/Decision3.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/المشروع/Decision.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/المشروع/Create an account.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/المشروع/Administration news3.html",
+		"/C/Users/Mazen~TQ/Desktop/Font Int/المشروع/Administration news2.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";  ",
+			" \t\t\t<",
+			";\n",
+			"body",
+			"\t   ",
+			"/*",
+			" /*start Global */\n",
+			";\n",
+			">\n",
+			"  .Privacy  ul li ",
+			"/*!",
+			"51px",
+			"  ",
+			"9",
+			"9px",
+			"11px",
+			">\n",
+			"length",
+			" >",
+			"h2",
+			";*/\n",
+			"690px",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font name6/HTML/INTEX.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3479,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3298,
+								3349
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1863.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font name6/CSS/MyCss.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7048,
+								7048
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7893.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font name6/js/JQUERY.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font name5/js/jquery.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1806,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/font nam3/JS/jquery.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/font nam3/HTML/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font name5/css/mycss.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font name5/js/myjs.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1651,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/Mazen~TQ/Desktop/Font Int/التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS/Font name5/html/intex.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9711,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mycss.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Mazen~TQ\\Desktop\\Font Int\\التطبيق على HTML - CSS - BOOTSTRAP - JQUERY - JS\\Font  name6 Responsive\\css\\my.css"
+			],
+			[
+				"pagC",
+				"app\\Http\\Controllers\\pageController.php"
+			],
+			[
+				"we",
+				"routes\\web.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
